@@ -22,7 +22,8 @@ The Code is written in Python. If you don't have Python installed you can find i
 ```bash
 pip install -r requirements.txt
 ```
-
+## Used Technologies
+![Logo1](https://www.vnurture.in/wp-content/uploads/2021/06/python.png)
 ## Author
 
  [Prathik Vishavadiya](https://www.linkedin.com/in/curiouspratihk/)
